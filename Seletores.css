@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Exercícios Seletores</title>
+        <link href="style.css" rel="stylesheet"/>
+    </head>
+    <body>
+        <h1 class="destaque">Estilização de parágrafos</h1>
+        <p>
+            Neste parágrafo será possivel visualizar a estilização estipulada neste exercício. Por isso, a fonte
+            deste parágrafo será diferente da fontes dos <strong>demais parágrafos</strong>. Para mais informações <a href="https//www.google.com.br">Clique aqui!</a>
+        </p>
+        <p>
+            Neste novo paragrafo, seguimos demonstrando como ficou o estilo da fonte <strong>nos demais parágrafos.</strong> 
+        </p>
+        <p class="destaque">Observe que neste novo parágrafo, o estilo da fonte segue igual ao estilo da fonte do segundo
+            parágrafo.
+        </p>
+        <div>
+            Texto de exemplo, <strong class="destaque">Destaque para o texto</strong>
+        </div>
+    </body>
+</html>
