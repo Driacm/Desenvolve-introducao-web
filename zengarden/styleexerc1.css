@@ -1,0 +1,11 @@
+/* Color Theme Swatches in Hex */
+.destaque { color: #FB573D; }
+.Summer-Love-2-hex { color: #3863AD; }
+.Summer-Love-3-hex { color: #6A9FFA; }
+.fundo { color: #bfece1; }
+.principal { color: #8FAD41; }
+
+html {
+    background: #bfece1;
+    color: #8FAD41; 
+}
