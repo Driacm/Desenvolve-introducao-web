@@ -1,0 +1,29 @@
+/* Color Theme Swatches in Hex */
+.destaque { color: #FB573D; }
+.Summer-Love-2-hex { color: #3863AD; }
+.Summer-Love-3-hex { color: #6A9FFA; }
+.fundo { color: #bfece1; }
+.principal { color: #8FAD41; }
+
+html {
+    background: #bfece1;
+    color: #8FAD41; 
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
+}
+p{
+    text-indent: 1.8 em;
+}
+
+h1, h2, h3 {
+           text-align: center;
+}
+h1 {font-size: 1.8 rem}
+h2 {font-size:1.4 rem}
+h3 {font-size:1.2 rem}
+
+.summary { text-align:center;}
+.main p {line height: 1.5;}
+abbr {
+    font-variant: small-caps;
+}
